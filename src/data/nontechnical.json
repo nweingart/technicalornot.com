@@ -1,0 +1,372 @@
+[
+    {
+    "name": "Kevin",
+    "title": "Co-founder",
+    "company": "Cohesive AI",
+    "isTechnical": false,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/KevinZhang.jpeg?alt=media&token=0e3d9ff3-572a-4674-a184-df75f3f07941",
+    "addedBy": "manual",
+    "justification": "McKinsey consultant and former PM, no technical background.",
+    "index": 0
+  },
+  {
+    "name": "Casey",
+    "title": "Co-founder and CEO",
+    "company": "Blueshoe",
+    "isTechnical": false,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/CaseyOgrady.jpeg?alt=media&token=dde4d023-0caa-49dd-abe3-e6799a9798131",
+    "addedBy": "manual",
+    "justification": "Lawyer, no technical background.",
+    "index": 1
+  },
+  {
+    "name": "Paras",
+    "title": "Co-founder and CEO",
+    "company": "Blueshoe",
+    "isTechnical": false,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/ParasManiar.jpeg?alt=media&token=91ac470e-9b89-4dbf-9f7d-6ef021130d9d",
+    "addedBy": "manual",
+    "justification": "Lawyer, no technical background.",
+    "index": 2
+  },
+  {
+    "name": "Yonas",
+    "title": "Co-founder",
+    "company": "StarSling",
+    "isTechnical": false,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/YonasBeshawrn.jpeg?alt=media&token=d33608ae-97b0-4c75-92e6-eb14529fa74c",
+    "addedBy": "manual",
+    "justification": "Business analyst annd consultant, no technical background.",
+    "index": 3
+  },
+  {
+    "name": "Kyler",
+    "title": "Co-founder and CEO",
+    "company": "Wavedash",
+    "isTechnical": false,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/KylerBlue.jpeg?alt=media&token=bd0e6adb-9a65-424b-870a-8098e932e1cb",
+    "addedBy": "manual",
+    "justification": "Product designer, no technical background.",
+    "index": 4
+  },
+  {
+    "name": "Ajith",
+    "title": "Co-founder and CEO",
+    "company": "Catctus",
+    "isTechnical": false,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/AjithSatheeth.jpeg?alt=media&token=86318adb-cd4b-4d53-8ded-2ecdcad4aa5e",
+    "addedBy": "manual",
+    "justification": "Business analyst and program manager, no technical background.",
+    "index": 5
+  },
+  {
+    "name": "Tanachart",
+    "title": "Co-founder",
+    "company": "LineWise",
+    "isTechnical": false,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/TanachartKujareevanch.jpeg?alt=media&token=1e3bdb13-ada0-46ea-ade0-fe9b320940fc",
+    "addedBy": "manual",
+    "justification": "Former McKinsey Consultant and MBA, no technical background.",
+    "index": 6
+  },
+  {
+    "name": "Marc",
+    "title": "Co-founder",
+    "company": "Propolis",
+    "isTechnical": false,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/MarcPapazian.jpeg?alt=media&token=05fe65ce-ddcb-4196-8c3c-a8201c2dfe1a",
+    "addedBy": "manual",
+    "justification": "Former product mananger and VC with a degree in East Asian studies, no technical background.",
+    "index": 7
+  },
+  {
+    "name": "Dimetri Kassubeck",
+    "title": "Co-founder and CEO",
+    "company": "Moby Analytics",
+    "isTechnical": false,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/DimitriKassubeck.jpeg?alt=media&token=06d3f2f3-e92f-4c0e-9d79-db416e089bad",
+    "addedBy": "manual",
+    "justification": "Former accountant with an econ degree, no technical background.",
+    "index": 8
+  },
+  {
+    "name": "Timoth Daniel",
+    "title": "Co-founder",
+    "company": "Rimba",
+    "isTechnical": false,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/TimothyDaniel.jpeg?alt=media&token=ade620d1-55dc-44de-bbfc-1f6e111e6e14",
+    "addedBy": "manual",
+    "justification": "Legal and compliance expert with an MBA, no technical background.",
+    "index": 9
+  },
+  {
+    "name": "Dmitry",
+    "title": "Co-founder and CEO",
+    "company": "WorkDone",
+    "isTechnical": false,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/DmitryKarpov.jpeg?alt=media&token=39dd640b-a40e-4650-8587-ca6412058868",
+    "addedBy": "manual",
+    "justification": "Former VC Fellow with an MBA, no technical background.",
+    "index": 10
+  },
+  {
+    "name": "Brandon",
+    "title": "Co-founder and CEO",
+    "company": "MindFort AI",
+    "isTechnical": false,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/BrandonVeiseh.jpeg?alt=media&token=e7b7ca4a-33b3-4431-9c05-aa7734510ea5",
+    "addedBy": "manual",
+    "justification": "Former Product Manager with a degree in political science, no technical background.",
+    "index": 11
+  },
+  {
+    "name": "Jao",
+    "title": "Co-founder and CEO",
+    "company": "Mesmer",
+    "isTechnical": false,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/Jaodp.jpeg?alt=media&token=5e3e7f0d-429c-4b83-b328-482bf04af0ad",
+    "addedBy": "manual",
+    "justification": "Former venture partner and lawyer, no technical background.",
+    "index": 12
+  },
+  {
+    "name": "Loki",
+    "title": "Co-founder and CEO",
+    "company": "Hemut",
+    "isTechnical": false,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/LokiCheema.jpeg?alt=media&token=be934dcb-2646-460f-a895-cd0184702d18",
+    "addedBy": "manual",
+    "justification": "Studying economics at UCLA, no technical background.",
+    "index": 13
+  },
+  {
+    "name": "Nizar",
+    "title": "Co-founder",
+    "company": "Zero",
+    "isTechnical": false,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/Nizar%20Abi.jpeg?alt=media&token=8b01e5ec-8bff-44d1-967f-b425d4fcd315",
+    "addedBy": "manual",
+    "justification": "Studied business law at Carlton, no technical background.",
+    "index": 14
+  },
+  {
+    "name": "Tugce",
+    "title": "Co-founder and CEO",
+    "company": "Eloquent AI",
+    "isTechnical": false,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/TugceBulut.jpeg?alt=media&token=437ca01c-bf76-42a1-8891-cc9c9c45680e",
+    "addedBy": "manual",
+    "justification": "Studied political economy at Cambridge, no technical background.",
+    "index": 15
+  },
+  {
+    "name": "Anya",
+    "title": "Co-founder and CEO",
+    "company": "MorphoAI",
+    "isTechnical": false,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/AnyaArora.jpeg?alt=media&token=b31f4abe-0f5f-4144-845e-93b0b7fea7f5",
+    "addedBy": "manual",
+    "justification": "Harvard MBA with manufacturing experience, no technical background.",
+    "index": 16
+  },
+  {
+    "name": "Courtne",
+    "title": "Co-founder and CEO",
+    "company": "Lyra",
+    "isTechnical": false,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/CourtneMMM.jpeg?alt=media&token=b93be5e9-26d3-49b6-9286-7e34536fa7bf",
+    "addedBy": "manual",
+    "justification": "Economics degree, no technical background.",
+    "index": 17
+  },
+  {
+    "name": "Bergen",
+    "title": "Co-founder",
+    "company": "throxy",
+    "isTechnical": false,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/BergenMerry.jpeg?alt=media&token=538b8e59-cc50-4c05-ad21-63d072848037",
+    "addedBy": "manual",
+    "justification": "Business degree and experience in strategy and research, no technical background.",
+    "index": 18
+  },
+  {
+    "name": "Bergen",
+    "title": "Co-founder",
+    "company": "throxy",
+    "isTechnical": false,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/BergenMerry.jpeg?alt=media&token=538b8e59-cc50-4c05-ad21-63d072848037",
+    "addedBy": "manual",
+    "justification": "Business degree and experience in strategy and research, no technical background.",
+    "index": 18
+  },
+  {
+    "name": "Pablo",
+    "title": "Co-founder",
+    "company": "throxy",
+    "isTechnical": false,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/PabloJimiity.jpeg?alt=media&token=08861ba5-be1c-4b6d-94f9-e9c4aa4ed953",
+    "addedBy": "manual",
+    "justification": "Business development / sales experience, no technical background.",
+    "index": 19
+  },
+  {
+    "name": "Max",
+    "title": "Co-founder",
+    "company": "Lucis",
+    "isTechnical": false,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/MaxGuerious.jpeg?alt=media&token=52fba004-3a67-49e6-ba07-b4827dc16c00",
+    "addedBy": "manual",
+    "justification": "MBA, no technical background.",
+    "index": 20
+  },
+  {
+    "name": "Max",
+    "title": "Co-founder",
+    "company": "Lucis",
+    "isTechnical": false,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/MaxBerthelot.jpeg?alt=media&token=6a0665e9-fa4d-45c0-bd8e-d953b2392b4f",
+    "addedBy": "manual",
+    "justification": "MBA and product growth experience, no technical background.",
+    "index": 21
+  },
+  {
+    "name": "Mark",
+    "title": "Co-founder",
+    "company": "Crimson",
+    "isTechnical": false,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/MArkFeldner.jpeg?alt=media&token=69f029c6-49f9-4eef-9769-fea95a81b3da",
+    "addedBy": "manual",
+    "justification": "Litigation lawyer, no technical background.",
+    "index": 22
+  },
+  {
+    "name": "Tom",
+    "title": "Co-founder and CEO",
+    "company": "Combinely",
+    "isTechnical": false,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/TomIvernezi.jpeg?alt=media&token=6fe17b63-befa-4efb-ac39-c180382c9623",
+    "addedBy": "manual",
+    "justification": "Former accountant and banker, no technical background.",
+    "index": 23
+  },
+  {
+    "name": "Amir",
+    "title": "Co-founder and CEO",
+    "company": "Caucus",
+    "isTechnical": false,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/AmirFarhani.jpeg?alt=media&token=cd216311-a78c-4319-ac8d-4e55b8ca081d",
+    "addedBy": "manual",
+    "justification": "Former congressional staffer, no technical background.",
+    "index": 24
+  },
+  {
+    "name": "Philip",
+    "title": "Co-founder",
+    "company": "Melder",
+    "isTechnical": false,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/AmirFarhani.jpeg?alt=media&token=cd216311-a78c-4319-ac8d-4e55b8ca081d",
+    "addedBy": "manual",
+    "justification": "Former consultant, no technical background.",
+    "index": 25
+  },
+  {
+    "name": "Kaela",
+    "title": "Co-founder",
+    "company": "Sunset",
+    "isTechnical": false,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/KAelaWorthen.jpeg?alt=media&token=65050b09-06d0-4e6b-9e92-a86df9a426da",
+    "addedBy": "manual",
+    "justification": "Prodcut and marketing experience, no technical background.",
+    "index": 26
+  },
+  {
+    "name": "Conor",
+    "title": "Co-founder",
+    "company": "Keye",
+    "isTechnical": false,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/ConorBrown.jpeg?alt=media&token=60d93d1f-0440-4965-8bbf-6f9335177e5e",
+    "addedBy": "manual",
+    "justification": "MBA and investment banker, no technical background.",
+    "index": 27
+  },
+  {
+    "name": "Igor",
+    "title": "Co-founder",
+    "company": "Blaze",
+    "isTechnical": false,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/Igor%20ZZZZ.jpeg?alt=media&token=0dc2deb8-96e0-4ea9-920e-efa28e44da3d",
+    "addedBy": "manual",
+    "justification": "Product designer, no technical background.",
+    "index": 28
+  },
+  {
+    "name": "Taryn",
+    "title": "Co-founder and CEO",
+    "company": "TradeFlow",
+    "isTechnical": false,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/TarynReardon.jpeg?alt=media&token=b53c9be2-2bc7-41fb-aae7-c09a30b2a293",
+    "addedBy": "manual",
+    "justification": "Investment banking experience, no technical background.",
+    "index": 29
+  },
+  {
+    "name": "Jesus",
+    "title": "Co-founder and CEO",
+    "company": "Kontigo",
+    "isTechnical": false,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/JesusCastillo.jpeg?alt=media&token=4811bdf1-7f52-49c5-b25e-ddaf21569b19",
+    "addedBy": "manual",
+    "justification": "Product and operations experience, no technical background.",
+    "index": 30
+  },
+  {
+    "name": "Rabii",
+    "title": "Co-founder and CEO",
+    "company": "Remo",
+    "isTechnical": false,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/RabiiMalik.jpeg?alt=media&token=5df3319e-eb09-49af-9039-8f3541b4073d",
+    "addedBy": "manual",
+    "justification": "McKinsey consultant with a philosophy degree, no technical background.",
+    "index": 31
+  },
+  {
+    "name": "Sparsh",
+    "title": "Co-founder",
+    "company": "Paasa",
+    "isTechnical": false,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/Sparsh%20Sharma.jpeg?alt=media&token=2590386e-8559-4485-9359-b5eebf2d61b0",
+    "addedBy": "manual",
+    "justification": "Product designer, no technical background.",
+    "index": 32
+  },
+  {
+    "name": "Misha",
+    "title": "Co-founder",
+    "company": "Bayesline",
+    "isTechnical": false,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/MishaVanBeek.jpeg?alt=media&token=edfebf15-d8aa-4eeb-8b4b-d41b7d707281",
+    "addedBy": "manual",
+    "justification": "Philsophy PHD with banking experience, no technical background.",
+    "index": 33
+  },
+  {
+    "name": "Janet",
+    "title": "Co-founder",
+    "company": "RevisionDojo",
+    "isTechnical": false,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/JanetLiu.jpeg?alt=media&token=bb1f31ae-e9fc-4830-b58d-cf4be53dcc7a",
+    "addedBy": "manual",
+    "justification": "Lingusitcs and education experience, no technical background.",
+    "index": 34
+  },
+  {
+    "name": "Bowen",
+    "title": "Co-founder",
+    "company": "RevisionDojo",
+    "isTechnical": false,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/JanetLiu.jpeg?alt=media&token=bb1f31ae-e9fc-4830-b58d-cf4be53dcc7a",
+    "addedBy": "manual",
+    "justification": "Banking and strategy experience, no technical background.",
+    "index": 35
+  }
+]

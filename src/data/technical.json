@@ -1,0 +1,104 @@
+[
+    {
+      "name": "Nathan",
+      "title": "Co-founder",
+      "company": "Cohesive AI",
+      "isTechnical": true,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/NathanNguyen.jpeg?alt=media&token=d9563672-33e9-4ee9-af55-f41cbdfcdd11",
+      "addedBy": "manual",
+      "justification": "Engineer at Google and Microsoft",
+      "index": 0
+    },
+    {
+      "name": "Jakob",
+      "title": "Co-founder",
+      "company": "Sava Robotics",
+      "isTechnical": true,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/JacobKnudsen.jpeg?alt=media&token=0a30dc1c-a69d-42c0-b8b0-63271b371148",
+      "addedBy": "manual",
+      "justification": "Engineering lead at Clarious.",
+      "index": 1
+    },
+    {
+      "name": "Nishant",
+      "title": "Co-founder, CEO",
+      "company": "Docket",
+      "isTechnical": true,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/NishantHooda.jpeg?alt=media&token=53c0298d-6965-4225-80aa-9aa341f492f7",
+      "addedBy": "manual",
+      "justification": "Engineer at Stripe and AWS.",
+      "index": 2
+    },
+    {
+      "name": "Vedic",
+      "title": "Co-founder, CTO",
+      "company": "Sava Robotics",
+      "isTechnical": true,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/VedicPatel.jpeg?alt=media&token=7758a48c-ed02-42b8-9762-d0795de80463",
+      "addedBy": "manual",
+      "justification": "Egnineering degree from Georgia Tech.",
+      "index": 3
+    },
+    {
+      "name": "Cinnamon",
+      "title": "Co-founder",
+      "company": "Cohesive AI",
+      "isTechnical": true,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/CinnamonSipper.jpeg?alt=media&token=539eed34-c0a7-49fc-9463-25b29dc634b4",
+      "addedBy": "manual",
+      "justification": "Engineer at Apple and engineering degree from Stanford.",
+      "index": 4
+    },
+    {
+      "name": "Eden",
+      "title": "Co-founder",
+      "company": "FINNY",
+      "isTechnical": true,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/EdenOvadia.jpeg?alt=media&token=de827caf-cebb-403d-b209-c15de48c8a45",
+      "addedBy": "manual",
+      "justification": "CS degree from McGill.",
+      "index": 5
+    },
+    {
+      "name": "Victoria",
+      "title": "Co-founder",
+      "company": "FINNY",
+      "isTechnical": true,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/VictoriaToli.jpeg?alt=media&token=d451939e-6e32-48d5-99c2-21e1e06bf35a",
+      "addedBy": "manual",
+      "justification": "CS degree from Stanford, former Data Analyst.",
+      "index": 6
+    },
+    {
+      "name": "Sebastian",
+      "title": "Co-founder",
+      "company": "Bayesline",
+      "isTechnical": true,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/SabastianJanis.jpeg?alt=media&token=9829c901-ea11-4f2d-b15b-994ce343e935",
+      "addedBy": "manual",
+      "justification": "Quant / ML experience at BlackRock and Bloomberg.",
+      "index": 7
+    },
+    {
+      "name": "Stephen",
+      "title": "Co-founder",
+      "company": "HealthSpark",
+      "isTechnical": true,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/StephenGrinch.jpeg?alt=media&token=eaeb5eed-cfe5-42ff-9071-b0e7eb877223",
+      "addedBy": "manual",
+      "justification": "Extensive software engineering experience at multuple companies.",
+      "index": 8
+    },
+    {
+      "name": "Stephen",
+      "title": "Co-founder",
+      "company": "HealthSpark",
+      "isTechnical": true,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/technical-or-not.firebasestorage.app/o/StephenGrinch.jpeg?alt=media&token=eaeb5eed-cfe5-42ff-9071-b0e7eb877223",
+      "addedBy": "manual",
+      "justification": "Extensive software engineering experience at multuple companies.",
+      "index": 8
+    }
+  ]
+  
+  
